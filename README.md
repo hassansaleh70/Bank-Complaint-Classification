@@ -124,7 +124,7 @@ Bank-Complaint-Classification/
 
 The trained model is approximately 255 MB and is distributed separately through GitHub Releases.
 
-**Download:** [DistilBERT 384 – v1.0.0](ADD_RELEASE_LINK_HERE)
+**Download:** [DistilBERT 384 – v1.0.0]([ADD_RELEASE_LINK_HERE](https://github.com/hassansaleh70/Bank-Complaint-Classification/releases/tag/v1.0.0))
 
 After downloading:
 
@@ -147,7 +147,7 @@ model/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Bank-Complaint-Classification.git
+git clone https://github.com/hassansaleh70/Bank-Complaint-Classification.git
 cd Bank-Complaint-Classification
 ```
 
