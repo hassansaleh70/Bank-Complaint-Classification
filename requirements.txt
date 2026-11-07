@@ -1,0 +1,9 @@
+# Runtime dependencies for Bank Complaint Classification
+# Tested in the project environment with Python 3.13.16
+
+torch==2.14.1
+transformers==5.22.2
+gradio==6.31.0
+scikit-learn==1.6.1
+pandas==2.2.3
+joblib>=1.4.2
