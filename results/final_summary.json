@@ -1,0 +1,54 @@
+{
+    "test_samples": 18645,
+    "number_of_classes": 5,
+    "best_model": "DistilBERT_384",
+    "best_macro_f1": 0.8552201265867833,
+    "best_accuracy": 0.8653794582998123,
+    "models": [
+        {
+            "Rank": 1,
+            "Model": "DistilBERT_384",
+            "Accuracy": 0.8653794582998123,
+            "Macro Precision": 0.8452902066689194,
+            "Macro Recall": 0.8665985262287587,
+            "Macro F1": 0.8552201265867833,
+            "Weighted F1": 0.8662240259475823
+        },
+        {
+            "Rank": 2,
+            "Model": "DistilBERT_256",
+            "Accuracy": 0.857441673370877,
+            "Macro Precision": 0.8351763665330966,
+            "Macro Recall": 0.8661820866484928,
+            "Macro F1": 0.8489488936860974,
+            "Weighted F1": 0.8589297482196073
+        },
+        {
+            "Rank": 3,
+            "Model": "GRU",
+            "Accuracy": 0.8306248323947439,
+            "Macro Precision": 0.8043110358860923,
+            "Macro Recall": 0.8442398227332166,
+            "Macro F1": 0.8213947971539642,
+            "Weighted F1": 0.832654006803094
+        },
+        {
+            "Rank": 4,
+            "Model": "LSTM",
+            "Accuracy": 0.8194690265486726,
+            "Macro Precision": 0.7881926896704142,
+            "Macro Recall": 0.8313230883452535,
+            "Macro F1": 0.806873886735706,
+            "Weighted F1": 0.821494089684231
+        },
+        {
+            "Rank": 5,
+            "Model": "SimpleRNN",
+            "Accuracy": 0.7245374094931617,
+            "Macro Precision": 0.6748359187594496,
+            "Macro Recall": 0.6865334427096924,
+            "Macro F1": 0.6755809186222351,
+            "Weighted F1": 0.7215135830665229
+        }
+    ]
+}

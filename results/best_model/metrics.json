@@ -1,0 +1,8 @@
+{
+    "Model": "DistilBERT",
+    "Max_Length": 384,
+    "Accuracy": 0.8653794582998123,
+    "Macro_F1": 0.8552201265867833,
+    "Weighted_F1": 0.8662240259475823,
+    "Validation_Macro_F1": 0.8557777295394047
+}

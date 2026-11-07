@@ -1,0 +1,6 @@
+Class,Number_of_Errors,Total_Samples,Error_Rate
+credit_card,315,2245,14.03118040089087
+credit_reporting,1112,8426,13.197246617612151
+debt_collection,554,3149,17.592886630676404
+mortgages_and_loans,311,2805,11.0873440285205
+retail_banking,218,2020,10.792079207920793
